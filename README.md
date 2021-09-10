@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 </div>
  
   -->
+  
+  <!--
+ <div>
+  <a href="https://github.com/fernandafrosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandafrosa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+</div>
+-->
