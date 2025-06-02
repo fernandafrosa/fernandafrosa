@@ -1,6 +1,6 @@
 ###  :)
 #### Computer Science undergraduate at PUCRS
-#### Software Developer Intern at SAP
+#### Software Developer at SAP
 
 <!--
 **fernandafrosa/fernandafrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
